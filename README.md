@@ -1,2 +1,0 @@
-# InteractiveSystems
-Sistemas De Interacción
